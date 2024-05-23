@@ -1,5 +1,11 @@
 # Tokyo 2024
 
+## Jason's game
+[Gomen](gomen.html)
+
+## Check-in Survey
+[Survey](https://forms.gle/xU3qThMAHrGg49fh9)
+
 ## Bitsy games
 
 [You are bread](https://npckc.itch.io/you-are-dough)
@@ -10,4 +16,3 @@
 
 [Cowgirl boots](https://fellerooni.itch.io/cowgirl-boots)
 
-[Gomen](gomen.html)
