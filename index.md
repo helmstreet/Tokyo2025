@@ -1,5 +1,3 @@
-# Tokyo 2024
-
 ## Jason's game
 [Gomen](gomen.html)
 
