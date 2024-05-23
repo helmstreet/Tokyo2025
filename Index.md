@@ -1,6 +1,6 @@
-#Tokyo 2024
+# Tokyo 2024
 
-##Bitsy games
+## Bitsy games
 
 [You are bread](https://npckc.itch.io/you-are-dough)
 
