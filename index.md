@@ -1,6 +1,6 @@
 ## Jason's game
-[Gomen](gomen_5.html)
-
+[Gomen](gomen_6.html)
+(gomen.html)
 ## Check-in Survey
 [Survey](https://forms.gle/xU3qThMAHrGg49fh9)
 
