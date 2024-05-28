@@ -1,5 +1,5 @@
 ## Jason's game
-[Gomen](gomen.html)
+[Gomen](gomen_4.html)
 
 ## Check-in Survey
 [Survey](https://forms.gle/xU3qThMAHrGg49fh9)
