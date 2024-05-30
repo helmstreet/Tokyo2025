@@ -17,7 +17,7 @@
 ## Student games
 [Ana](Ana.html)
 
-[Jonathan](Jonthan.html) 
+[Jonathan](Jonathan.html) 
 
 [Leighann](Leighann.html)
 
