@@ -39,7 +39,7 @@
 
 [Will](Will.html)
 
-[Jake](Jakw.html)
+[Jake](Jake.html)
 
 [Aiden](Aiden.html)
 
