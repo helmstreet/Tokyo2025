@@ -1,4 +1,4 @@
-# Tokyo 2024
+# Tokyo 2025
 
 ## Welcome!
 This course will explore Japanese pop culture across a variety of media: manga, comics, J-Pop, and others. Students will experience the culture first-hand and get a chance to explore these media by creating their own examples. If you'd like to see what last year's trip was like, each of the students made a game about their experience and you can play them below!
