@@ -5,6 +5,7 @@ This course will explore Japanese pop culture across a variety of media: manga, 
 
 Based in Tokyo, students will experience Japanese culture through experiences like attending a Sumo tournament, making their own manga and video games, going to a pig cafe and being snuggled by cute baby pigs, and standing atop the world's highest tower. We'll be visiting various cultural districts of Tokyo, from the high fashion Ginza strip to the electric town of Akihabara. The course will also include a 4 day trip to Hokkaido (via bullet train) where we'll learn about the roots of Ainu culture as well as its present pop-cultural presence.
 
+To play the games on your phone, tap the link and then tap the screen inside the game. From there just swipe to move and interact with things. On a computer, you'll need to click inside the screen area and then use your arrow keys to move and interact. 
 
 ## Student games
 [Ana](Ana.html)
