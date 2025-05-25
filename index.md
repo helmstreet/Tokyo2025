@@ -7,16 +7,22 @@ Based in Tokyo, students will experience Japanese culture through experiences li
 
 To play the games on your phone, tap the link and then tap the screen inside the game. From there just swipe to move and interact with things. On a computer, you'll need to click inside the screen area and then use your arrow keys to move and interact. 
 
-## Student games
+## Jason's Game
+[Gomen](Gomen6.html)
+
+## Previous Student games
+[Leighann](Leighann.html)
+
+[Izzie](Izzie.html)
+
+
+
+
 [Ana](Ana.html)
 
 [Jonathan](Jonathan.html) 
 
-[Leighann](Leighann.html)
-
 [Jude](Jude.html)
-
-[Izzie](Izzie.html)
 
 [Katherine](Katherine.html)
 
