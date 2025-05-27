@@ -1,7 +1,7 @@
 # Tokyo Study Abroad
 
 ## Jason's Game
-[Gomen](Gomen_6.html)
+[Gomen](gomen.html)
 
 ## Previous Student games
 [Leighann](Leighann.html)
