@@ -11,7 +11,6 @@
 [Izzie](Izzie.html)
 
 ## 2025 Student Games
-See this space in two days!
 [Upload here](https://tcu.app.box.com/f/7dd6375dd5c449ed84e3b3e117720e0f)
 
 * [Abigail](Abigail.html)
