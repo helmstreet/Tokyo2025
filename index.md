@@ -14,3 +14,23 @@
 See this space in two days!
 [Upload here](https://tcu.app.box.com/f/7dd6375dd5c449ed84e3b3e117720e0f)
 
+* [Abigail](Abigail.html)
+* [Whitney](Whitney.html)
+* [Alejandro](Alejandro.html)
+* [Yarelie](Yarelie.html)
+* [Davis](Davis.html)
+* [Ava](Ava.html)
+* [Parker](.html)
+* [Olivia](.html)
+* [Noah](.html)
+* [Mason](.html)
+* [Trinity](.html)
+* [Jack](.html)
+* [Jake](.html)
+* [Izzie](.html)
+* [Ella](.html)
+
+
+## Playlist
+
+
