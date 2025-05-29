@@ -10,7 +10,8 @@
 
 [Izzie](Izzie.html)
 
-## 2025 Student Games
+## 2025 Student Games 
+(AKA our favorite students)
 [Upload here](https://tcu.app.box.com/f/7dd6375dd5c449ed84e3b3e117720e0f)
 
 * [Abigail](Abigail.html)
@@ -19,15 +20,15 @@
 * [Yarelie](Yarelie.html)
 * [Davis](Davis.html)
 * [Ava](Ava.html)
-* [Parker](.html)
-* [Olivia](.html)
-* [Noah](.html)
-* [Mason](.html)
-* [Trinity](.html)
-* [Jack](.html)
-* [Jake](.html)
-* [Izzie](.html)
-* [Ella](.html)
+* [Parker](Parker.html)
+* [Olivia](Olivia.html)
+* [Noah](Noah.html)
+* [Mason](Mason.html)
+* [Trinity](Trinity.html)
+* [Jack](Jack.html)
+* [Jake](Jake.html)
+* [Izzie](Izzie.html)
+* [Ella](Ella.html)
 
 
 ## Playlist
