@@ -32,5 +32,5 @@
 
 
 ## Playlist
-
+[Tokyo 2025 Playlist](https://open.spotify.com/playlist/0zCgqQobSnaihOTTcNa1YD?si=aqaPnyPURzK9WSyVMvRgNw&pi=vt1zx48nStytT)
 
